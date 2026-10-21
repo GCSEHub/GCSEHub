@@ -4,7 +4,7 @@ A free GCSE revision app with subject-specific quizzes, starter tests and revisi
 
 ## Open GCSEHub
 
-**[Go to the live app](https://gcsehub.gcsehub-commodore293.workers.dev/)**
+**[Go to the live app](https://gcsehub.gcsehub-commodore293.workers.dev/)** or download offline link
 
 ## Features
 
